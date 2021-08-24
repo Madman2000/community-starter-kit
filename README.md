@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot helps to organize communities to streamline the process of coding online, such as using GITHUB!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Probot allows seemless integration for multiple user to work together on an online project
 
 ## Getting started
 
